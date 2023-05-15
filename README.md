@@ -15,7 +15,6 @@
   
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat&logo=Android%20Studio&logoColor=white)
   ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat&logo=Eclipse%20IDE&logoColor=white)
-  ![Intelli J](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat&logo=IntelliJ%20IDE&logoColor=white)
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
   
   
