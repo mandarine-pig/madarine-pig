@@ -1,5 +1,7 @@
-
-![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=F8E2CF&section=header&text=madarine-pig🍊&fontSize=40&fontColor=black&fontAlignY=35)
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=F8E2CF&section=header&text=madarine-pig🍊&fontSize=40&fontColor=black&fontAlignY=35)
+</div>
 
 <h3 align="center"> 🛠 Skills 🛠 </h3>
   
