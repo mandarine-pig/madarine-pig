@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=150&color=F8E2CF&text=madarine-pig🍊&fontSize=40&fontColor=black&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=F8E2CF&text=madarine-pig🍊&fontSize=40&fontColor=black&fontAlignY=35)
   
 # ⌨️Skills
 
@@ -9,6 +9,7 @@
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat&logo=Android%20Studio&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat&logo=Eclipse%20IDE&logoColor=white)
+  
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdms5591)](https://solved.ac/thdms5591/)
   
