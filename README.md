@@ -10,7 +10,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat&logo=Android%20Studio&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat&logo=Eclipse%20IDE&logoColor=white)
   
-  
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdms5591)](https://solved.ac/thdms5591/)
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mandarine-pig&show_icons=true&theme=radical)
