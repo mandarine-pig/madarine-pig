@@ -7,7 +7,7 @@
  ![Python](https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white) 
  ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flate&logo=Java&logoColor=white) 
   
-  <h3 align="center">  Tools ⌨ </h3>
+  <h3 align="center">  🍴 Tools 🍴 </h3>
   
   <h3 align="center"> ⌨️ IDE ⌨️ </h3>
 
