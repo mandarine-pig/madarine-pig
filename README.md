@@ -6,8 +6,10 @@
 
  ![Python](https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white) 
  ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flate&logo=Java&logoColor=white) 
-
-<h3 align="center"> ⌨️ Tools ⌨️ </h3>
+  
+  <h3 align="center">  Tools ⌨ </h3>
+  
+  <h3 align="center"> ⌨️ IDE ⌨️ </h3>
 
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat&logo=Android%20Studio&logoColor=white)
   ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat&logo=Eclipse%20IDE&logoColor=white)
